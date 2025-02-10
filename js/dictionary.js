@@ -5,10 +5,10 @@ const dictionaryData = {
             pronunciation: "BOH-keh",
             definition: "The aesthetic quality of the blur produced in out-of-focus parts of an image, creating soft, circular shapes of light.",
             category: "Photography",
-            imagePath: "assets/images/bokeh/main.jpg",
+            imagePath: "/creative-dictionary/assets/images/bokeh/main.jpg",
             examples: [
-                "assets/images/bokeh/example1.jpg",
-                "assets/images/bokeh/example2.jpg"
+                "/creative-dictionary/assets/images/bokeh/example1.jpg",
+                "/creative-dictionary/assets/images/bokeh/example2.jpg"
             ]
         },
         kawaii: {
@@ -16,9 +16,9 @@ const dictionaryData = {
             pronunciation: "ka-wa-EE",
             definition: "Japanese concept of cuteness, characterized by childlike features, soft colors, and rounded shapes in design and illustration.",
             category: "Design",
-            imagePath: "assets/images/kawaii/main.jpg",
+            imagePath: "/creative-dictionary/assets/images/kawaii/main.jpg",
             examples: [
-                "assets/images/kawaii/example1.jpg"
+                "/creative-dictionary/assets/images/kawaii/example1.jpg"
             ]
         },
         parallax: {
@@ -26,16 +26,16 @@ const dictionaryData = {
             pronunciation: "PAIR-uh-laks",
             definition: "A web design technique where background content moves at a different speed than foreground content while scrolling.",
             category: "Web Design",
-            imagePath: "assets/images/parallax/main.gif"
+            imagePath: "/creative-dictionary/assets/images/parallax/main.gif"
         },
         knolling: {
             title: "Knolling",
             pronunciation: "NOHL-ing",
             definition: "The process of arranging related objects in parallel or 90-degree angles as a method of organization.",
             category: "Photography",
-            imagePath: "assets/images/knolling/main.jpg",
+            imagePath: "/creative-dictionary/assets/images/knolling/main.jpg",
             examples: [
-                "assets/images/knolling/example1.jpg"
+                "/creative-dictionary/assets/images/knolling/example1.jpg"
             ]
         },
         snakeCase: {
@@ -43,16 +43,16 @@ const dictionaryData = {
             pronunciation: "SNAKE-case",
             definition: "A naming convention where words_are_separated_by_underscores, commonly used in programming.",
             category: "Development",
-            imagePath: "assets/images/snake-case/main.jpg"
+            imagePath: "/creative-dictionary/assets/images/snake-case/main.jpg"
         },
         colourGel: {
             title: "Colour Gel",
             pronunciation: "KUH-lr jel",
             definition: "Transparent, colored material placed over lights to create colored lighting effects in photography and film.",
             category: "Photography",
-            imagePath: "assets/images/colour-gel/main.jpg",
+            imagePath: "/creative-dictionary/assets/images/colour-gel/main.jpg",
             examples: [
-                "assets/images/colour-gel/example1.jpg"
+                "/creative-dictionary/assets/images/colour-gel/example1.jpg"
             ]
         },
         hamburgerMenu: {
@@ -60,16 +60,16 @@ const dictionaryData = {
             pronunciation: "HAM-bur-gur MEH-nyoo",
             definition: "The three-line menu icon (☰) used to toggle navigation menus, especially on mobile interfaces.",
             category: "UI Design",
-            imagePath: "assets/images/hamburger-menu/main.jpg"
+            imagePath: "/creative-dictionary/assets/images/hamburger-menu/main.jpg"
         },
         dutchAngle: {
             title: "Dutch Angle",
             pronunciation: "DUHCH ANG-guhl",
             definition: "A camera technique where the frame is rotated to create a tilted perspective, often used to create tension or disorientation.",
             category: "Cinematography",
-            imagePath: "assets/images/dutch-angle/main.jpg",
+            imagePath: "/creative-dictionary/assets/images/dutch-angle/main.jpg",
             examples: [
-                "assets/images/dutch-angle/example1.jpg"
+                "/creative-dictionary/assets/images/dutch-angle/example1.jpg"
             ]
         },
         moire: {
@@ -77,16 +77,16 @@ const dictionaryData = {
             pronunciation: "mwar-AY",
             definition: "A visual perception that occurs when viewing a set of lines or dots that is superimposed on another similar pattern.",
             category: "Visual Effects",
-            imagePath: "assets/images/moire/main.jpg"
+            imagePath: "/creative-dictionary/assets/images/moire/main.jpg"
         },
         pareidolia: {
             title: "Pareidolia",
             pronunciation: "pair-i-DOH-lee-a",
             definition: "The tendency to perceive a specific, often meaningful image in a random or unrelated visual pattern.",
             category: "Psychology",
-            imagePath: "assets/images/pareidolia/main.jpg",
+            imagePath: "/creative-dictionary/assets/images/pareidolia/main.jpg",
             examples: [
-                "assets/images/pareidolia/example1.jpg"
+                "/creative-dictionary/assets/images/pareidolia/example1.jpg"
             ]
         },
         flatLay: {
@@ -94,9 +94,9 @@ const dictionaryData = {
             pronunciation: "FLAT-lay",
             definition: "A photograph shot directly from above of items arranged on a flat surface, popular in food and product photography.",
             category: "Photography",
-            imagePath: "assets/images/flat-lay/main.jpg",
+            imagePath: "/creative-dictionary/assets/images/flat-lay/main.jpg",
             examples: [
-                "assets/images/flat-lay/example1.jpg"
+                "/creative-dictionary/assets/images/flat-lay/example1.jpg"
             ]
         }
     }
