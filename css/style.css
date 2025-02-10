@@ -57,10 +57,9 @@ h1 {
 .subtitle {
     color: #fff;
     margin-bottom: 0.8rem;
-    font-size: 0.6rem;
+    font-size: 0.9rem;
     font-family: 'Poppins', sans-serif !important;
     font-weight: 300;
-    line-height: 1.2;
 }
 
 .search-container {
@@ -316,20 +315,22 @@ select {
     }
 
     h1 {
-        font-size: 2.5rem;
-        margin-bottom: 0.4rem;
+        font-size: 1.8rem;
+        margin-bottom: 0.3rem;
         line-height: 1;
-        font-weight: 700 !important;
+        letter-spacing: 0;
     }
 
-    .powered-by {
-        top: 0.3rem;
-        right: 0.3rem;
+    .subtitle {
+        font-size: 0.8rem;
+        margin-bottom: 0.6rem;
+        line-height: 1.2;
     }
 
     .search-container {
         flex-direction: column;
         padding: 0 1rem;
+        margin-top: 0.3rem;
     }
 
     #searchInput,
