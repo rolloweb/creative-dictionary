@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Dictionary</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="powered-by">
+            <span>Powered by</span>
+            <img src="https://images.squarespace-cdn.com/content/v1/66211ba2d996b1316ff8daec/87b35222-b121-4e7e-976d-81260c00d04a/funk3000_logo.png?format=500w" alt="Funk3000">
+        </div>
+        <h1>Creative Dictionary</h1>
+        <p class="subtitle">Visual definitions for creative terminology</p>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search terms...">
+            <select id="categoryFilter">
+                <option value="">All Categories</option>
+            </select>
+        </div>
+    </header>
+
+    <main>
+        <div class="terms-grid" id="termsContainer">
+            <!-- Terms will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <script src="js/dictionary.js"></script>
+</body>
+</html>
